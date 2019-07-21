@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="ojdbc14">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../Java Oracle/ojdbc14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/ojdbc14.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
